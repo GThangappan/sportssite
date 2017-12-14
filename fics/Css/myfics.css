@@ -1,0 +1,53 @@
+﻿.myerror-class
+{
+    color:#800000;
+}
+.mod-footer {
+    padding: 12px;
+    text-align: right;    
+}
+.model-header-info
+{
+  background:#54aef9;
+  color:white;
+}
+.error
+{
+    color:#ea0d0d;
+}
+.servive-block-u {
+  background: #4f91cd;
+  color: White;
+}
+.servive-block-outline {
+  border: 2px solid #4f91cd;
+  color: #4f91cd;
+}
+.servive-block {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.servive-content {
+	min-height: 70px;
+	color: #fff;
+}
+.navbar-inverse {
+    background-color: #5cb85c;
+    border-color: #e7e7e7;
+    color:#fffff;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff0f0;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #42a9a9;
+}
+.navbar-nav>li {
+    border-bottom: 1px solid #d2cece;
+}

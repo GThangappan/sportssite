@@ -1,0 +1,21 @@
+D:\fics\fics\bin\fics.dll
+D:\fics\fics\bin\fics.pdb
+D:\fics\fics\bin\MongoDB.Bson.xml
+D:\fics\fics\bin\MongoDB.Driver.xml
+D:\fics\fics\obj\Debug\Sporty.csprojResolveAssemblyReference.cache
+D:\fics\fics\obj\Debug\fics.dll
+D:\fics\fics\obj\Debug\fics.pdb
+D:\Sports pro\fics\bin\fics.dll
+D:\Sports pro\fics\bin\fics.pdb
+D:\Sports pro\fics\obj\Debug\fics.dll
+D:\Sports pro\fics\obj\Debug\fics.pdb
+D:\Sports pro\fics\bin\MongoDB.Bson.xml
+D:\Sports pro\fics\bin\MongoDB.Driver.xml
+D:\Sports pro\fics\obj\Debug\Sporty.csprojResolveAssemblyReference.cache
+F:\Sports pro\fics\bin\fics.dll
+F:\Sports pro\fics\bin\fics.pdb
+F:\Sports pro\fics\bin\MongoDB.Bson.xml
+F:\Sports pro\fics\bin\MongoDB.Driver.xml
+F:\Sports pro\fics\obj\Debug\Sporty.csprojResolveAssemblyReference.cache
+F:\Sports pro\fics\obj\Debug\fics.dll
+F:\Sports pro\fics\obj\Debug\fics.pdb

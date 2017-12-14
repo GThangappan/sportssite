@@ -1,0 +1,7 @@
+D:\FICS pro\fics\fics\bin\fics.dll
+D:\FICS pro\fics\fics\bin\fics.pdb
+D:\FICS pro\fics\fics\bin\MongoDB.Bson.xml
+D:\FICS pro\fics\fics\bin\MongoDB.Driver.xml
+D:\FICS pro\fics\fics\obj\Debug\fics.dll
+D:\FICS pro\fics\fics\obj\Debug\fics.pdb
+D:\FICS pro\fics\fics\obj\Debug\fics.csprojResolveAssemblyReference.cache
